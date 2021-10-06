@@ -1,4 +1,4 @@
-# Module 7 Challenge - Create a Web Application for an EFT Analyzer
+# Module 7 Challenge - Create a Web Application for an ETF Analyzer
 
 ---
 
